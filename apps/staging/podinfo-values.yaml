@@ -16,3 +16,5 @@ spec:
           paths:
             - path: /
               pathType: ImplementationSpecific
+    replicaCount: 2
+
